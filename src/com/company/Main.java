@@ -8,7 +8,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-////!!!!!!!!!!!!!!!!!!!!!!
+////проверка гита через ком строку
 
  class Main {
 
